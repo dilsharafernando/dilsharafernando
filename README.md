@@ -93,8 +93,3 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/dilsharafernando/dilsharafernando/snake-output/snake.svg" alt="Snake animation" />
-
-###
