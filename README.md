@@ -1,5 +1,5 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Chamika%20Dilshara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%26%20Web%20Technologies&descSize=18&descAlignY=60" alt="Header Banner" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Chamika%20Dilshara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20-%20Java%20and%20Web%20Technologies&descSize=18&descAlignY=60" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -30,16 +30,12 @@ I am an aspiring software developer passionate about building clean, functional 
 
 ### 🛠 Tech Stack & Tools
 
-<div align="center">
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **Frameworks & Libraries** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white) |
 | **Database & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
-
-</div>
 
 ---
 
@@ -69,6 +65,6 @@ I am an aspiring software developer passionate about building clean, functional 
 
 <br/>
 
-<div>
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer Banner" />
 </div>
