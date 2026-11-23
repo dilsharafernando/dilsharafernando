@@ -1,95 +1,74 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRtazRpbDh3c3dwc2VmZHp2ZHMzOTNyb3Rid3o1NGV0aWV6am12byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Chamika%20Dilshara&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%26%20Web%20Technologies&descSize=18&descAlignY=60" alt="Header Banner" />
 </div>
 
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=dilsharafernando.dilsharafernando&"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">Hi 👋, I'm Chamika dilshara</h1>
-
-###
-
-<h3 data-importer="text" align="left">An aspiring software developer focused on web technologies, programming fundamentals, and modern software development.</h3>
-
-###
-
-<p data-importer="text" align="left">🔭 I’m currently working on Personal projects to improve my frontend and programming fundamentals<br><br>🌱 I’m currently learning java , html , oop<br><br>👨‍💻 All of my projects are available at https://github.com/dilsharafernando</p>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHgxdHIzd25iYjl6MnYxaDRjb2N0M3p5dHhhY28wODcxb29ianYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="center">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=dilsharafernando&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/chamika-dilshara-a23826406" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/chamika-dilshara-a23826406" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@Dilshara_Fernando" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="https://github.com/dilsharafernando" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dilsharafernando.dilsharafernando&style=for-the-badge" alt="Profile Views" />
 </div>
 
-###
+<br/>
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+### 👨‍💻 About Me
+
+I am an aspiring software developer passionate about building clean, functional applications and strengthening my core software engineering skills. Currently focused on **Object-Oriented Programming (OOP) with Java** and **front-end web development**, turning theoretical concepts into real-world projects.
+
+- 🔭 **Currently Working On:** Interactive web applications and Java Swing desktop systems
+- 🌱 **Currently Learning:** Java, Object-Oriented Design Patterns, HTML5, CSS3, and Modern JavaScript (ES6+)
+- 💡 **Interests:** Software Architecture, Front-End UI/UX, and Problem Solving
+- 📫 **Connect With Me:** [LinkedIn](https://www.linkedin.com/in/chamika-dilshara-a23826406)
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frameworks & Libraries** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white) |
+| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) |
+
 </div>
 
-###
+---
 
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Customer Management Application](https://github.com/dilsharafernando/Customer-Management-Application)** | A web-based CRUD application designed to organize, update, and manage customer records cleanly. | `HTML5` `CSS3` `JavaScript` |
+| **[To-Do Application](https://github.com/dilsharafernando/To-Do-Application)** | A minimalist task management web app with status toggling and dynamic DOM updates. | `HTML5` `CSS3` `JavaScript` |
+| **[Simple Calculator](https://github.com/dilsharafernando/Simple-Calculator)** | A responsive arithmetic calculator supporting decimal precision and error handling. | `HTML5` `CSS3` `JavaScript` |
+| **[Number Guessing Game](https://github.com/dilsharafernando/Number-Guessing-Game)** | An interactive browser-based logic game with instant feedback and attempt tracking. | `HTML5` `CSS3` `JavaScript` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dilsharafernando&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilsharafernando&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=dilsharafernando&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer Banner" />
+</div>
